@@ -1,5 +1,28 @@
-# Challenge_AmigoSecreto
-Aquí encontrarás un juego intractivo en el cual podrás ingresar los nombres de tus amigos y poder hacer un sorteo.
-En el input 'amigo' digitarás el nombre de cada amigo tuyo.
-Alo daler clic al botón añadir, se visualizará una lista con  los nombres ingresados.
-Al hacer clic en el botón sorteo, aparecerá el nombre de la persona ganadora del sorteo.
+# Secret Friend Draw
+
+## Description
+
+Interactive web application developed with JavaScript that allows users to create a list of participants and randomly select a secret friend. The application provides input validation, dynamic list updates, and random participant selection through an intuitive user interface.
+
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+## Features
+
+- Add participants to a dynamic list.
+- Validate user input before adding names.
+- Display the participant list in real time.
+- Randomly select a secret friend.
+- Provide interactive feedback to the user.
+- Simple and responsive interface.
+
+## Future Improvements
+
+- Prevent duplicate participant names.
+- Remove participants from the list.
+- Shuffle and assign every participant a secret friend.
+- Save the participant list using Local Storage.
+- Export the results to a file.
